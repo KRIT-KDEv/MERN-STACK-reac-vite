@@ -4,7 +4,7 @@ A modern, high-performance blogging platform featuring full CRUD capabilities, b
 ---
 
 ###Tech Stack
-* **Frontend:** React (Vite), Tailwind CSS, Axios
+* **Frontend:** React (Vite) , Axios
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB with Mongoose for schema validation
 
